@@ -25,7 +25,7 @@ namespace WCFAppDataService
             }
             if (composite.BoolValue)
             {
-                composite.StringValue += "Suffix";
+                composite.StringValue += "Suffix First Name";
             }
             return composite;
         }
